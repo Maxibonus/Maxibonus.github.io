@@ -1,4 +1,4 @@
-## Pamdas 101:  Why use files when you can use pandas
+## Pandas 101:  Why use files when you can use pandas
 
 Lession 1
 
