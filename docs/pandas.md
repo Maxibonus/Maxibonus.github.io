@@ -4,7 +4,7 @@ Lesson 1 Learning Objectives
 
 Obj Number | Description 
 ------------ | -------------
-1 | Install, open and navidate pandas
+1 | Install, open and navigate pandas
 2 | import data into dataframe
 3 | manipulate a dataframe to answer a question
 
