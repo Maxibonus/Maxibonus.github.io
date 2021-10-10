@@ -27,3 +27,7 @@ Obj Number | Description
 -Mahatma Gandhi:
 
 > Be the change you want to see in the World
+
+
+Example solution to obj 3 and 4:
+![Screenshot from 2021-10-10 14-12-40](https://user-images.githubusercontent.com/43079509/136680262-7c71a59a-1fa4-4d9e-ae13-f030cb2a194f.png)
