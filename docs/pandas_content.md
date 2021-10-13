@@ -1,5 +1,6 @@
 ##Misc content
 
+```
 #Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns
 # filtering dataframes and series objects
 
@@ -35,3 +36,4 @@ df.loc[filt, 'language'] # returns everything that only has python
 #Another example
 filt2 = df['ACCOUNT NAME'].str.contains('Smith', na=False) # note, is case sensitive
 df.loc[filt2, ['ACCOUNT NAME', 'AMOUNT']]
+```
