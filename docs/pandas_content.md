@@ -50,6 +50,7 @@ df.loc[filt2, ['ACCOUNT NAME', 'AMOUNT']]
 
 # V5 - updating rows Alter existing rows and columns
 change columns - use list comprension, eg upper:
+
 ```
 df.columns = [x.upper() for x in df.columns]
 ```
