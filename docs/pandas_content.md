@@ -1,6 +1,6 @@
 ##Misc content
 
-```
+
 #Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns
 # filtering dataframes and series objects
 
